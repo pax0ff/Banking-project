@@ -4,8 +4,6 @@
 import java.*;
 public class Bank {
 
-    public void Main(String args[]){
 
-    }
 
 }
